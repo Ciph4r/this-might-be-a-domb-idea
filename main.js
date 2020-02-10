@@ -30,6 +30,7 @@ const list = document.querySelector('ul')
 const newLi = list.appendChild(document.createElement('li'))
 newLi.innerText = `Won't get fooled again.`
 newLi.setAttribute('id','item-16')
+newLi.setAttribute('class','item' )
 
 // newLi.innerText = `Won't get fooled again.`
 
