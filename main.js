@@ -5,7 +5,7 @@ para.innerText = 'Lorem ipsum dolor amet viral meh selfies drinking vinegar, int
 
 const header = document.querySelector('h1')
 
-header.style.frontSize = '50em'
+header.style.fontSize = '5em'
 
 const item13 = document.querySelector('#item-13')
 
